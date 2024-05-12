@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="stxt1">ADD BOOK DETAILS</string>
+    <string name="Etxt1">"  Student Name"</string>
+    <string name="Etxt2">"  Quantity"</string>
+    <string name="Etxt3">"  Date"</string>
+    <string name="ET1">"  Student Name"</string>
+    <string name="ET2">"  Quantity"</string>
+    <string name="ET3">"  Date"</string>
+    <string name="savebtn">SAVE</string>
+    <string name="Etxt4">"  Book Name"</string>
+    <string name="ET4">"  Book Name"</string>
+    <string name="btnadd">ADD</string>
+    <string name="vtext4">" Student Name:"</string>
+    <string name="vtext5">"  Book Name:"</string>
+    <string name="vtext7">"  Date"</string>
+    <string name="vtext8">"  Date:"</string>
+    <string name="updatebtn">" U"</string>
+    <string name="deletebtn">" D"</string>
+    <string name="upt1">"  Student Name:"</string>
+    <string name="upt">"  Student Name"</string>
+    <string name="upt2">" Book Name"</string>
+    <string name="upt3">"  Book Name:"</string>
+    <string name="upt5">"  Quantity"</string>
+    <string name="upt6">"  Date"</string>
+    <string name="edittext">EDIT BOOK DETAILS</string>
+    <string name="editsave">save</string>
+</resources>
